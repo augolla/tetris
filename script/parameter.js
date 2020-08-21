@@ -1,6 +1,6 @@
 const WIDTH = 10;
 const HEIGHT = 20;
-const BLOCK_SIZE = 30;
+const BLOCK_SIZE = 24;
 const COLOR = 7;
 const piece = [
   [
